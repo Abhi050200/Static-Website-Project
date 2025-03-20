@@ -3,7 +3,7 @@
 
 
 ## Overview
-This project is a simple static website designed to demonstrate the use of HTML, CSS, and JavaScript. It can be hosted using web servers like Apache2, Nginx, or any static hosting service.
+This project is a simple static website designed to demonstrate the use of HTML, CSS, and JavaScript. It can be hosted using web servers like Apache2, Nginx.
 
 ## Directory Structure
 ```
